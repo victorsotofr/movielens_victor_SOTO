@@ -1,4 +1,4 @@
-# MovieLens_Victor_SOTO  
+# movielens_victor_SOTO  
 **School Project - Recommender System**
 
 ---
@@ -49,5 +49,5 @@ WIP
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/movielens_victor_soto.git
-   cd movielens_victor_soto
+   git clone https://github.com/yourusername/movielens_victor_SOTO.git
+   cd movielens_victor_SOTO
