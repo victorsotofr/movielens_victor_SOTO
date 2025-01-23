@@ -10,12 +10,12 @@ This project explores key concepts in recommendation systems, including collabor
 ---
 
 ## Dataset  
-The **MovieLens100k** dataset contains:  
-- **100,000 ratings** (1-5) from 943 users on 1,682 movies.  
-- Additional metadata such as genres, release years, and user demographics.  
-- Ratings are timestamped and cover a broad range of movie preferences.  
+The **MovieLens100k** dataset consists of:
+	* **100,000** ratings (1-5) from 943 users on 1682 movies. 
+	* Each user has rated at least 20 movies. 
+  * Simple demographic info for the users (age, gender, occupation, zip)
 
-For more details about the dataset, visit [MovieLens100k Dataset Info](https://grouplens.org/datasets/movielens/100k/).
+For more details about the dataset, visit [MovieLens100k - ReadMe File](https://files.grouplens.org/datasets/movielens/ml-100k-README.txt).
 
 ---
 
